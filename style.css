@@ -9,7 +9,7 @@ table {
   }
   
   thead th {
-    background: #0ca13177;
+    background: green;
     color: #FFF;
     font-family: 'Lato', sans-serif;
     font-size: 16px;
@@ -34,7 +34,7 @@ table {
   }
 
   h1 {
-    background-image: url(./images/binary.jpeg);
+    background-image: url(./images/binary-2.jpeg);
     text-align: center;
     color: whitesmoke;
     background-blend-mode: color;
@@ -44,4 +44,9 @@ table {
 
   h2 {
     text-align: center;
+    color: white;
+  }
+  
+  body {
+      background-image: url(./images/binary-2.jpeg);
   }
